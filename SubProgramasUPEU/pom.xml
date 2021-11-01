@@ -35,7 +35,11 @@
     <configuration>
     <archive>
     <manifest>
+<<<<<<< HEAD
     <mainClass>pe.edu.upeu.App</mainClass>
+=======
+    <mainClass>pe.edu.upeu.app.App</mainClass>
+>>>>>>> 00b16be860e2dd7f4e90f43ab0dcef57824d8513
     </manifest>
     </archive>
     </configuration>

@@ -1,10 +1,14 @@
 package pe.edu.upeu;
 import pe.edu.upeu.modulo.*;
+<<<<<<< HEAD
 import java.util.Scanner;
+=======
+>>>>>>> 00b16be860e2dd7f4e90f43ab0dcef57824d8513
 /**
  * Hello world!
  *
  */
+<<<<<<< HEAD
 public class FibonaciMain {
 
     static SubProgramas sp=new SubProgramas();
@@ -34,5 +38,15 @@ static void menuOpciones(){
     public static void main( String[] args ){
         System.out.println( "Hello World!" );
         menuOpciones();
+=======
+public class App {
+
+    static SubProgramas sp=new SubProgramas();
+
+    public static void main( String[] args )
+    {
+        System.out.println( "Hello World!" );
+        ps.saludo();
+>>>>>>> 00b16be860e2dd7f4e90f43ab0dcef57824d8513
     }
 }

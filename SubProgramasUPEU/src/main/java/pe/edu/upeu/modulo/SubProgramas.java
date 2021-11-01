@@ -13,7 +13,11 @@ public void Saludo(){
 
 public void otroSaludo(){
   String apellido="Perez";
+<<<<<<< HEAD
   System.out.println("Hola"+nombre+""+apellido);
+=======
+  System.out.println("Hola"+nombre+""+apellidos);
+>>>>>>> 00b16be860e2dd7f4e90f43ab0dcef57824d8513
 }
 
 }
